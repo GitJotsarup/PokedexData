@@ -1,6 +1,6 @@
 {
   "pokemon": [{
-    "id": 003,
+    "id": 1003,
     "name": "Venusaur",
     "type1": "Grass",
     "type2": "Poison",
@@ -9,7 +9,7 @@
     "jots Favorite": false
   },
     {
-    "id": 006,
+    "id": 1006,
     "name": "Charizard",
     "type1": "Fire",
     "type2": "Flying",
@@ -18,7 +18,7 @@
     "jots Favorite": true
   },
   {
-    "id": 012,
+    "id": 1012,
     "name": "Butterfree",
     "type1": "Bug",
     "type2": "Flying",
@@ -27,7 +27,7 @@
     "jots Favorite": false
   },
   {
-    "id": 015,
+    "id": 1015,
     "name": "Beedrill",
     "type1": "Bug",
     "type2": "Poison",
@@ -36,7 +36,7 @@
     "jots Favorite": false
   },
   {
-    "id": 022,
+    "id": 1022,
     "name": "Fearow",
     "type1": "Normal",
     "type2": "Flying",
@@ -45,7 +45,7 @@
     "jots Favorite": false
   },
   {
-    "id": 031,
+    "id": 1031,
     "name": "Nidoqueen",
     "type1": "Poison",
     "type2": "Ground",
@@ -54,7 +54,7 @@
     "jots Favorite": false
   },
   {
-    "id": 049,
+    "id": 1049,
     "name": "Venomoth",
     "type1": "Bug",
     "type2": "Poison",
@@ -63,7 +63,7 @@
     "jots Favorite": false
   },
   {
-    "id": 040,
+    "id": 1040,
     "name": "Wigglytuff",
     "type1": "Normal",
     "type2": "Fairy",
@@ -72,7 +72,7 @@
     "jots Favorite": false
   },
   {
-    "id": 124,
+    "id": 1024,
     "name": "Jynx",
     "type1": "Ice",
     "type2": "Phychic",
